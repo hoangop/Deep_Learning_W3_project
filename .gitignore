@@ -1,0 +1,41 @@
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb_checkpoints
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Data files (do not track data directory)
+data/
+*.csv
+*.h5
+*.pkl
+*.zip
+
+# Model files (uncomment if you don't want to track models)
+# models/
+# *.h5
+# *.pth
+# *.ckpt
+
